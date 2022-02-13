@@ -2,14 +2,14 @@
 
 Simple login and forgot password page to use in a fresh new project.
 
-Any PR is welcome!
-
 This project have:
 
 - Fresh use of Composition API
 - 2 routes (login and forgot password) w/ Vue Router
 - Input field validation with VeeValidate (email and password) and Yup
 - CSS styling with Tailwind CSS
+
+Any PR is welcome!
 
 ### 🔧 Installation
 
