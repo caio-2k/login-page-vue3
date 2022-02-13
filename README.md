@@ -2,6 +2,8 @@
 
 Simple login and forgot password page to use in a fresh new project.
 
+Any PR is welcome!
+
 This project have:
 
 - Fresh use of Composition API
