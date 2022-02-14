@@ -6,7 +6,7 @@ This project have:
 
 - Fresh use of Composition API
 - 2 routes (login and forgot password) w/ Vue Router
-- Input field validation with VeeValidate (email and password) and Yup
+- Input field validation with VeeValidate (email and password)
 - CSS styling with Tailwind CSS
 
 Any PR is welcome!
@@ -25,7 +25,7 @@ And:
 yarn run dev
 ```
 
-npm can be used too.
+*npm can be used too.*
 
 ## 🛠️ Built with
 
