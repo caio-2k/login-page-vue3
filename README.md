@@ -33,6 +33,3 @@ yarn run dev
 * [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 * [Vue Router](https://router.vuejs.org/) - The official router for Vue.js
 * [VeeValidate](https://vee-validate.logaretm.com/v4/) - Form Validation for Vue.js
-
----
-⌨️ with ❤️ by [Caio Vinicius](https://www.linkedin.com/in/caio-2k/) 😊
